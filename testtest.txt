@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 s this is from branch
+=======
+This is master commit - VJ 15-07
+
+another commit
+
+>>>>>>> master
